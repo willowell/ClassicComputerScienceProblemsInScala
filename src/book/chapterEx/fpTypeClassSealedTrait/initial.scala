@@ -2,6 +2,7 @@
 ///
 /// This approach solves the expression problem from an FP perspective
 ///
+/// https://gist.github.com/lewapek/e686b94fe91a74df58b75efb0fa9c00f
 ///
 package book.chapterEx.fpTypeClassSealedTrait.initial
 
