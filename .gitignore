@@ -2,13 +2,15 @@
 .metals
 .bloop
 .bsp
+.scala-build
 
 # Ignore IDE metadata
 .idea
-.vscode
+.vscode/settings.json
 
-# Ignore Mill's build output
+# Ignore build output
 out
+target
 
 # Ignore miscellaneous filesystem stuff
 .DS_Store
